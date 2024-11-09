@@ -23,8 +23,7 @@ about:
       target: _blank
     - text: CV
       icon: person
-      url: personal-website/blob/main/cv.pdf
-      target: _blank
+      url: cv.pdf
       
 ---
 Hi 👋 

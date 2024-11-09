@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - cv.pdf
+    - docs/cv.pdf
 
 website:
   title: "Joana Marques Barros"
