@@ -3,11 +3,11 @@ project:
   output-dir: docs
   resources:
     - cv.pdf
-    - docs/cv.pdf
 
 website:
   title: "Joana Marques Barros"
   description: "Joana Marques Barros is a Data Scientist and R Programmer XXXXX."
+  site-url: /personal-website
   favicon: img_cv/favicon.ico
   navbar:
     left:
