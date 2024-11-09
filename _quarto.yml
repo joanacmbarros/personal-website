@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Joana Marques Barros"
+  description: "Joana Marques Barros is a Data Scientist and R Programmer XXXXX."
+  favicon: img_cv/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: "About"
+  page-footer:
+    background: light
+    left: Copyright 2024, Joana Marques Barros
+    right: This website is built with {{< fa heart title="a heart" >}}, {{< fa brands github title="GitHub octocat logo" >}}, {{< fa brands r-project title="R Project" >}} and Quarto
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+

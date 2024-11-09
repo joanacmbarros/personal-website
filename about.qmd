@@ -1,0 +1,6 @@
+---
+title: "About"
+---
+
+![Your PDF](CV.pdf)
+
