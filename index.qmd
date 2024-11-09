@@ -23,7 +23,7 @@ about:
       target: _blank
     - text: CV
       icon: person
-      url: cv.pdf
+      url: personal-website/cv.pdf
       target: _blank
       
 ---
