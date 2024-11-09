@@ -31,7 +31,7 @@ Hi 👋
 
 I'm a Data Scientist and R programmer.
 
-I completed my PhD in Computer Science in 2020 (🤯 what a year), and since then, I've been working in the pharmaceutical industry. Before pharma, I was deep in the Machine Learning and Deep Learning trenches, doing [research](https://scholar.google.com/citations?user=5QKWqrIAAAAJ&hl=en) in Cheminformatics and Health Informatics. Nowadays, I’m more interested in practical, real-world applications of data science—specifically how we can leverage current tools and technologies to streamline day-to-day operations.
+I completed my PhD in Computer Science in 2020, and since then, I've been working in the pharmaceutical industry. Before pharma, I was deep in the Machine Learning and Deep Learning trenches, doing [research](https://scholar.google.com/citations?user=5QKWqrIAAAAJ&hl=en) in Cheminformatics and Health Informatics. Nowadays, I’m more interested in practical, real-world applications of data science—specifically how we can leverage current tools and technologies to streamline day-to-day operations.
 
 In my role as a Clinical Data Scientist, I focus on developing solutions to help our Biometry team while also exploring ways to make this process [easier in the future](https://www.nature.com/articles/s41597-022-01789-2) and create more opportunities.
 
